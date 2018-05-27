@@ -20,7 +20,7 @@ const AppHeader = () => (
                 paddingTop: 20,
             }}
         >
-            Reactive Todos
+            Toodo
         </Title>
         </Body>
     </Header>

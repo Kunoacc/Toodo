@@ -5,7 +5,6 @@ class Utils {
 
         return (
             todos
-            // consider streamData as the source of truth
             // first take existing todos which are not present in stream data
                 .filter(({ _id }) => !streamDataIds.includes(_id))
                 // then add todos from stream data
