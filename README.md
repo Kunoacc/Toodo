@@ -1,4 +1,4 @@
-# Toodo<a href="https://rnfirebase.io"><img align="left" src="http://i.imgur.com/01XQL0x.png"></a>
+# Toodo
 
 ---
 
