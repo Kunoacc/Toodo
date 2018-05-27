@@ -21,10 +21,15 @@
     "preset": "react-native"
   },
   "dependencies": {
+    "@appbaseio/reactivesearch-native": "^0.8.0",
+    "@expo/vector-icons": "^6.3.1",
     "fbjs": "^0.8.16",
+    "native-base": "^2.4.5",
     "react": "^16.3.1",
     "react-native": "^0.55.3",
     "react-native-firebase": "^4.1.0",
-    "react-navigation": "^2.0.4"
+    "react-navigation": "^2.0.4",
+    "prop-types": "latest",
+    "appbase-js": "latest"
   }
 }
